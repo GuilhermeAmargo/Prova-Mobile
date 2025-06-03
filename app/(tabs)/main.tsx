@@ -1,11 +1,11 @@
 import { View, StyleSheet, Image, Text } from "react-native";
 
-export default function Home() {
+export default function Main() {
 
   return (
     <View style={styles.container}>
         
-        <Text style={styles.title}>Home</Text>
+        <Text style={styles.title}>Main</Text>
         
   
     </View>
